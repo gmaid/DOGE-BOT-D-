@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('NOODLE NOOB');
+    if (message.content === '!help') {
+    	message.reply('why and no');
   	}
 });
 

@@ -1,3 +1,6 @@
 # DOGE-BOT
 # Doge I like
 # DOGE BESTTTTT
+# DOGE REAL PRO
+# DOGE REAL NOT GAY
+# 999++ person LIKE DOGE
